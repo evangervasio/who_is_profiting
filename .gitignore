@@ -1,0 +1,4 @@
+**/__pycache__/
+**/.idea/
+**/creds.py
+**/successful_arbitrages.txt
